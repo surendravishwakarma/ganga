@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appName": "Ganga",
+  "signIn": "SignIn",
+  "myBid": "My BID's",
+  "setNewPassword": "Set New Password",
+  "noInternet": "No Internet",
+  "timeoutException": "TimeoutException",
+  "socketException": "SocketException",
+  "okay": "Okay",
+  "pleaseWaitAcceptYourInvite": "Please Wait Accept Your Invite",
+  "inviteSent": "Invite Sent",
+  "inviteSentImg": "Invite SentImg",
+  "somethingWentWrong": "Something Went Wrong",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "date": "Date",
+  "failure": "failure",
+  "success":"success",
+  "enterCorrectPhone": "enterCorrectPhone",
+  "enterYourEmail": "enterYourEmail",
+  "enterValidEmail": "enterValidEmail"
+}
